@@ -55,6 +55,8 @@ leetcode-daily/
 
 - Arrays
 - Dynamic Programming
+- String
+- Hashing
 - Graphs
 - Trees
 - Binary Search
