@@ -48,7 +48,7 @@ leetcode-daily/
 | Problem No. | Problem Name | Difficulty | Topic |
 |-------------|--------------|------------|--------|
 | 1871 | Jump Game VII | 🟡 Medium | DP + Sliding Window |
-
+| 3120 | Count the no. of special characters | 🟢 Easy | String + Hashing |
 ---
 
 # ⚡ Topics Covered
