@@ -1,4 +1,4 @@
-//Problem: 3120. Count the number of special characters
+//Problem: 3093. Longest Common Suffix Queries
 //Topic: Trie + Strings
 //Difficulty: Hard
 
