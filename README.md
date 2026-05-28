@@ -34,7 +34,8 @@ leetcode-daily/
 ├── DP/
 │   └── 1871_Jump_Game_VII.cpp
 ├── String + Hashing    
-│   └── 3120_Count_the_no_of_special_characters.cpp
+│   └── 3120_Count_the_no_of_special_characters_I.cpp
+│   └── 3121_Count_the_no_of_special_characters_II.cpp
 ├── Arrays/
 ├── Graphs/
 ├── Trees/
@@ -48,7 +49,8 @@ leetcode-daily/
 | Problem No. | Problem Name | Difficulty | Topic |
 |-------------|--------------|------------|--------|
 | 1871 | Jump Game VII | 🟡 Medium | DP + Sliding Window |
-| 3120 | Count the no. of special characters | 🟢 Easy | String + Hashing |
+| 3120 | Count the no. of special characters I | 🟢 Easy | String + Hashing |
+| 3121 | Count the no. of special characters II | 🟡 Medium | String + Hashing |
 ---
 
 # ⚡ Topics Covered
