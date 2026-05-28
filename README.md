@@ -33,9 +33,11 @@ leetcode-daily/
 │
 ├── DP/
 │   └── 1871_Jump_Game_VII.cpp
-├── String + Hashing    
+├── String + Hashing/    
 │   └── 3120_Count_the_no_of_special_characters_I.cpp
 │   └── 3121_Count_the_no_of_special_characters_II.cpp
+├── Trie + Strings/
+│   └── 3093_Longest_Common_Suffix_Queries.cpp
 ├── Arrays/
 ├── Graphs/
 ├── Trees/
@@ -51,6 +53,7 @@ leetcode-daily/
 | 1871 | Jump Game VII | 🟡 Medium | DP + Sliding Window |
 | 3120 | Count the no. of special characters I | 🟢 Easy | String + Hashing |
 | 3121 | Count the no. of special characters II | 🟡 Medium | String + Hashing |
+| 3093 | Longest Common Suffix Queries | 🔴 Hard | Trie + Strings |
 ---
 
 # ⚡ Topics Covered
