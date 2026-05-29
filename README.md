@@ -39,6 +39,7 @@ leetcode-daily/
 ├── Trie + Strings/
 │   └── 3093_Longest_Common_Suffix_Queries.cpp
 ├── Arrays/
+│   └── 3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp
 ├── Graphs/
 ├── Trees/
 └── README.md
@@ -54,6 +55,7 @@ leetcode-daily/
 | 3120 | Count the no. of special characters I | 🟢 Easy | String + Hashing |
 | 3121 | Count the no. of special characters II | 🟡 Medium | String + Hashing |
 | 3093 | Longest Common Suffix Queries | 🔴 Hard | Trie + Strings |
+| 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
