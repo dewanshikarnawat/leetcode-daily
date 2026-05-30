@@ -42,6 +42,8 @@ leetcode-daily/
 │   └── 3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp
 ├── Graphs/
 ├── Trees/
+├── Segment Tree/
+│   └── 3161_Block_Placement_Queries.cpp
 └── README.md
 ```
 
@@ -56,6 +58,7 @@ leetcode-daily/
 | 3121 | Count the no. of special characters II | 🟡 Medium | String + Hashing |
 | 3093 | Longest Common Suffix Queries | 🔴 Hard | Trie + Strings |
 | 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays |
+| 3161 | Block Placement Queries | 🔴 Hard | Segment Tree |
 ---
 
 # ⚡ Topics Covered
@@ -70,7 +73,7 @@ leetcode-daily/
 - Sliding Window
 - Greedy
 - BFS / DFS
-
+- Segment Tree
 ---
 
 # 🎯 Goal
