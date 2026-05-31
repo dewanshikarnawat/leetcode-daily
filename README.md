@@ -40,6 +40,7 @@ leetcode-daily/
 │   └── 3093_Longest_Common_Suffix_Queries.cpp
 ├── Arrays/
 │   └── 3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp
+│   └── 2126_Destroying_Asteroids.cpp
 ├── Graphs/
 ├── Trees/
 ├── Segment Tree/
@@ -59,6 +60,7 @@ leetcode-daily/
 | 3093 | Longest Common Suffix Queries | 🔴 Hard | Trie + Strings |
 | 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays |
 | 3161 | Block Placement Queries | 🔴 Hard | Segment Tree |
+| 2126 | Destroying Asteroids | 🟡 Medium | Arrays |
 ---
 
 # ⚡ Topics Covered
