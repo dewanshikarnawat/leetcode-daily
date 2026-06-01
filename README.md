@@ -54,16 +54,16 @@ leetcode-daily/
 
 # 🧠 Problems Solved
 
-| Problem No. | Problem Name | Difficulty | Topic |
-|-------------|--------------|------------|--------|
-| 1871 | Jump Game VII | 🟡 Medium | DP + Sliding Window |
-| 3120 | Count the no. of special characters I | 🟢 Easy | String + Hashing |
-| 3121 | Count the no. of special characters II | 🟡 Medium | String + Hashing |
-| 3093 | Longest Common Suffix Queries | 🔴 Hard | Trie + Strings |
-| 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays |
-| 3161 | Block Placement Queries | 🔴 Hard | Segment Tree |
-| 2126 | Destroying Asteroids | 🟡 Medium | Arrays |
-| 2144 | Minimum Cost of Buying Candies With Discount | 🟢 Easy | Greedy |
+| Day | Problem No. | Problem Name | Difficulty | Topic |
+|--------|-------------|--------------|------------|--------|
+| 1 | 1871 | Jump Game VII | 🟡 Medium | DP + Sliding Window |
+| 2 | 3120 | Count the no. of special characters I | 🟢 Easy | String + Hashing |
+| 3 | 3121 | Count the no. of special characters II | 🟡 Medium | String + Hashing |
+| 4 | 3093 | Longest Common Suffix Queries | 🔴 Hard | Trie + Strings |
+| 5 | 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays |
+| 6 | 3161 | Block Placement Queries | 🔴 Hard | Segment Tree |
+| 7 | 2126 | Destroying Asteroids | 🟡 Medium | Arrays |
+| 8 | 2144 | Minimum Cost of Buying Candies With Discount | 🟢 Easy | Greedy |
 ---
 
 # ⚡ Topics Covered
