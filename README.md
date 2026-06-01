@@ -52,7 +52,7 @@ leetcode-daily/
 
 ---
 
-# 🧠 Problems Solved
+# 🧠 Problems Solved (POTD)
 
 | Day | Problem No. | Problem Name | Difficulty | Topic |
 |--------|-------------|--------------|------------|--------|
