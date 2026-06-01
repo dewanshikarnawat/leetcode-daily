@@ -41,6 +41,8 @@ leetcode-daily/
 ├── Arrays/
 │   └── 3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp
 │   └── 2126_Destroying_Asteroids.cpp
+├── Greedy/
+│   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Graphs/
 ├── Trees/
 ├── Segment Tree/
@@ -61,11 +63,13 @@ leetcode-daily/
 | 3300 | Minimum Element After Replacement With Digit Sum | 🟢 Easy | Arrays |
 | 3161 | Block Placement Queries | 🔴 Hard | Segment Tree |
 | 2126 | Destroying Asteroids | 🟡 Medium | Arrays |
+| 2144 | Minimum Cost of Buying Candies With Discount | 🟢 Easy | Greedy |
 ---
 
 # ⚡ Topics Covered
 
 - Arrays
+- Greedy Algoruthm
 - Dynamic Programming
 - String
 - Hashing
