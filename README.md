@@ -43,6 +43,8 @@ leetcode-daily/
 │   └── 2126_Destroying_Asteroids.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
+├── Brute Force/
+│   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 ├── Graphs/
 ├── Trees/
 ├── Segment Tree/
@@ -64,6 +66,7 @@ leetcode-daily/
 | 6 | 3161 | Block Placement Queries | 🔴 Hard | Segment Tree |
 | 7 | 2126 | Destroying Asteroids | 🟡 Medium | Arrays |
 | 8 | 2144 | Minimum Cost of Buying Candies With Discount | 🟢 Easy | Greedy |
+| 9 | 3633 | Earliest Finish Time for Land and Water Rides I | 🟢 Easy | Brute Force |
 ---
 
 # ⚡ Topics Covered
