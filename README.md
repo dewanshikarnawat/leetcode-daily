@@ -46,6 +46,7 @@ leetcode-daily/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
+│   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
 ├── Graphs/
 ├── Trees/
 ├── Segment Tree/
@@ -69,11 +70,13 @@ leetcode-daily/
 | 8 | 2144 | Minimum Cost of Buying Candies With Discount | 🟢 Easy | Greedy |
 | 9 | 3633 | Earliest Finish Time for Land and Water Rides I | 🟢 Easy | Brute Force |
 | 10 | 3635 | Earliest Finish Time for Land and Water Rides II | 🟡 Medium | Arrays |
+| 11 | 3751 | Total Waviness of Numbers in Range I | 🟡 Medium | Brute Force |
 ---
 
 # ⚡ Topics Covered
 
 - Arrays
+- Brute Force
 - Greedy Algoruthm
 - Dynamic Programming
 - String
