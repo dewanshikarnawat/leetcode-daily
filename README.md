@@ -32,6 +32,8 @@ This repository contains my daily LeetCode problem solutions in C++ for:
 leetcode-daily/
 │
 ├── DP/
+│   └── Digit DP
+│       └── Total Waviness of Numbers in Range II.cpp
 │   └── 1871_Jump_Game_VII.cpp
 ├── String + Hashing/    
 │   └── 3120_Count_the_no_of_special_characters_I.cpp
@@ -71,6 +73,7 @@ leetcode-daily/
 | 9 | 3633 | Earliest Finish Time for Land and Water Rides I | 🟢 Easy | Brute Force |
 | 10 | 3635 | Earliest Finish Time for Land and Water Rides II | 🟡 Medium | Arrays |
 | 11 | 3751 | Total Waviness of Numbers in Range I | 🟡 Medium | Brute Force |
+| 12 | 3753 | Total Waviness of Numbers in Range II | 🔴 Hard | DP (Digit DP) |
 ---
 
 # ⚡ Topics Covered
