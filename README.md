@@ -43,7 +43,8 @@ leetcode-daily/
 ├── Arrays/
 │   └── 3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp
 │   └── 2126_Destroying_Asteroids.cpp
-│   └── 3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II
+│   └── 3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.cpp
+│   └── 2574. Left and Right Sum Differences.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Brute Force/
@@ -74,6 +75,7 @@ leetcode-daily/
 | 10 | 3635 | Earliest Finish Time for Land and Water Rides II | 🟡 Medium | Arrays |
 | 11 | 3751 | Total Waviness of Numbers in Range I | 🟡 Medium | Brute Force |
 | 12 | 3753 | Total Waviness of Numbers in Range II | 🔴 Hard | DP (Digit DP) |
+| 13 | 2574 | Left and Right Sum Differences | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
