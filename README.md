@@ -45,6 +45,7 @@ leetcode-daily/
 │   └── 2126_Destroying_Asteroids.cpp
 │   └── 3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.cpp
 │   └── 2574. Left and Right Sum Differences.cpp
+│   └── 2161. Partition Array According to Given Pivot.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Brute Force/
@@ -52,6 +53,7 @@ leetcode-daily/
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
 ├── Graphs/
 ├── Trees/
+│   └── 2196. Create Binary Tree From Descriptions.cpp
 ├── Segment Tree/
 │   └── 3161_Block_Placement_Queries.cpp
 └── README.md
@@ -76,6 +78,8 @@ leetcode-daily/
 | 11 | 3751 | Total Waviness of Numbers in Range I | 🟡 Medium | Brute Force |
 | 12 | 3753 | Total Waviness of Numbers in Range II | 🔴 Hard | DP (Digit DP) |
 | 13 | 2574 | Left and Right Sum Differences | 🟢 Easy | Arrays |
+| 14 | 2196 | Create Binary Tree From Descriptions | 🟡 Medium | Trees |
+| 15 | 2161 | Partition Array According to Given Pivot | 🟡 Medium | Arrays |
 ---
 
 # ⚡ Topics Covered
