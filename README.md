@@ -46,6 +46,7 @@ leetcode-daily/
 │   └── 3635_Earliest_Finish_Time_for_Land_and_Water_Rides_II.cpp
 │   └── 2574. Left and Right Sum Differences.cpp
 │   └── 2161. Partition Array According to Given Pivot.cpp
+│   └── 3689. Maximum Total Subarray Value I.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Brute Force/
@@ -80,6 +81,7 @@ leetcode-daily/
 | 13 | 2574 | Left and Right Sum Differences | 🟢 Easy | Arrays |
 | 14 | 2196 | Create Binary Tree From Descriptions | 🟡 Medium | Trees |
 | 15 | 2161 | Partition Array According to Given Pivot | 🟡 Medium | Arrays |
+| 16 | 3689 | Maximum Total Subarray Value I | 🟡 Medium | Arrays |
 ---
 
 # ⚡ Topics Covered
