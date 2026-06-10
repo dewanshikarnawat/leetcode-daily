@@ -35,6 +35,8 @@ leetcode-daily/
 │   └── Digit DP
 │       └── Total Waviness of Numbers in Range II.cpp
 │   └── 1871_Jump_Game_VII.cpp
+├── Heap/
+│   └── 3691. Maximum Total Subarray Value II.cpp
 ├── String + Hashing/    
 │   └── 3120_Count_the_no_of_special_characters_I.cpp
 │   └── 3121_Count_the_no_of_special_characters_II.cpp
@@ -82,6 +84,7 @@ leetcode-daily/
 | 14 | 2196 | Create Binary Tree From Descriptions | 🟡 Medium | Trees |
 | 15 | 2161 | Partition Array According to Given Pivot | 🟡 Medium | Arrays |
 | 16 | 3689 | Maximum Total Subarray Value I | 🟡 Medium | Arrays |
+| 17 | 3691 | Maximum Total Subarray Value II | 🔴 Hard | Heap |
 ---
 
 # ⚡ Topics Covered
