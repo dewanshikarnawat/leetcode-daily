@@ -54,7 +54,8 @@ leetcode-daily/
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
-├── Graphs/
+├── Graph Theory(Trees)/
+│   └── 3558. Number of Ways to Assign Edge Weights I.cpp
 ├── Trees/
 │   └── 2196. Create Binary Tree From Descriptions.cpp
 ├── Segment Tree/
@@ -85,6 +86,7 @@ leetcode-daily/
 | 15 | 2161 | Partition Array According to Given Pivot | 🟡 Medium | Arrays |
 | 16 | 3689 | Maximum Total Subarray Value I | 🟡 Medium | Arrays |
 | 17 | 3691 | Maximum Total Subarray Value II | 🔴 Hard | Heap |
+| 18 | 3558 | Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees |
 ---
 
 # ⚡ Topics Covered
@@ -102,6 +104,7 @@ leetcode-daily/
 - Greedy
 - BFS / DFS
 - Segment Tree
+- Graph Theory
 ---
 
 # 🎯 Goal
