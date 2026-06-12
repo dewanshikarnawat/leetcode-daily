@@ -56,6 +56,7 @@ leetcode-daily/
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
 ├── Graph Theory(Trees)/
 │   └── 3558. Number of Ways to Assign Edge Weights I.cpp
+│   └── 3559. Number of Ways to Assign Edge Weights II.cpp
 ├── Trees/
 │   └── 2196. Create Binary Tree From Descriptions.cpp
 ├── Segment Tree/
@@ -87,6 +88,7 @@ leetcode-daily/
 | 16 | 3689 | Maximum Total Subarray Value I | 🟡 Medium | Arrays |
 | 17 | 3691 | Maximum Total Subarray Value II | 🔴 Hard | Heap |
 | 18 | 3558 | Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees |
+| 19 | 3559 | Number of Ways to Assign Edge Weights II| 🔴 Hard | Trees |
 ---
 
 # ⚡ Topics Covered
