@@ -49,6 +49,7 @@ leetcode-daily/
 │   └── 2574. Left and Right Sum Differences.cpp
 │   └── 2161. Partition Array According to Given Pivot.cpp
 │   └── 3689. Maximum Total Subarray Value I.cpp
+│   └── 3838. Weighted Word Mapping.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Brute Force/
@@ -89,6 +90,7 @@ leetcode-daily/
 | 17 | 3691 | Maximum Total Subarray Value II | 🔴 Hard | Heap |
 | 18 | 3558 | Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees |
 | 19 | 3559 | Number of Ways to Assign Edge Weights II| 🔴 Hard | Trees |
+| 20 | 3838 | Weighted Word Mapping| 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
