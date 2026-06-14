@@ -62,6 +62,8 @@ leetcode-daily/
 │   └── 2196. Create Binary Tree From Descriptions.cpp
 ├── Segment Tree/
 │   └── 3161_Block_Placement_Queries.cpp
+├── Linked List/
+│   └── 2130. Maximum Twin Sum of a Linked List.cpp
 └── README.md
 ```
 
@@ -89,8 +91,9 @@ leetcode-daily/
 | 16 | 3689 | Maximum Total Subarray Value I | 🟡 Medium | Arrays |
 | 17 | 3691 | Maximum Total Subarray Value II | 🔴 Hard | Heap |
 | 18 | 3558 | Number of Ways to Assign Edge Weights I | 🟡 Medium | Trees |
-| 19 | 3559 | Number of Ways to Assign Edge Weights II| 🔴 Hard | Trees |
-| 20 | 3838 | Weighted Word Mapping| 🟢 Easy | Arrays |
+| 19 | 3559 | Number of Ways to Assign Edge Weights II | 🔴 Hard | Trees |
+| 20 | 3838 | Weighted Word Mapping | 🟢 Easy | Arrays |
+| 21 | 2130 | Maximum Twin Sum of a Linked List | 🟡 Medium | Linked List |
 ---
 
 # ⚡ Topics Covered
