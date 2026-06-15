@@ -64,6 +64,7 @@ leetcode-daily/
 │   └── 3161_Block_Placement_Queries.cpp
 ├── Linked List/
 │   └── 2130. Maximum Twin Sum of a Linked List.cpp
+│   └── 2095. Delete the Middle Node of a Linked List.cpp
 └── README.md
 ```
 
@@ -94,6 +95,7 @@ leetcode-daily/
 | 19 | 3559 | Number of Ways to Assign Edge Weights II | 🔴 Hard | Trees |
 | 20 | 3838 | Weighted Word Mapping | 🟢 Easy | Arrays |
 | 21 | 2130 | Maximum Twin Sum of a Linked List | 🟡 Medium | Linked List |
+| 22 | 2096 | Delete the Middle Node of a Linked List | 🟡 Medium | Linked List |
 ---
 
 # ⚡ Topics Covered
@@ -112,6 +114,7 @@ leetcode-daily/
 - BFS / DFS
 - Segment Tree
 - Graph Theory
+- Linked List
 ---
 
 # 🎯 Goal
