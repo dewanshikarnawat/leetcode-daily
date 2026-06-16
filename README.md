@@ -65,6 +65,8 @@ leetcode-daily/
 ├── Linked List/
 │   └── 2130. Maximum Twin Sum of a Linked List.cpp
 │   └── 2095. Delete the Middle Node of a Linked List.cpp
+├── String/
+│   └── 3612. Process String with Special Operations I.cpp
 └── README.md
 ```
 
@@ -96,6 +98,7 @@ leetcode-daily/
 | 20 | 3838 | Weighted Word Mapping | 🟢 Easy | Arrays |
 | 21 | 2130 | Maximum Twin Sum of a Linked List | 🟡 Medium | Linked List |
 | 22 | 2096 | Delete the Middle Node of a Linked List | 🟡 Medium | Linked List |
+| 23 | 3612 | 3612. Process String with Special Operations I | 🟡 Medium | String |
 ---
 
 # ⚡ Topics Covered
@@ -115,6 +118,7 @@ leetcode-daily/
 - Segment Tree
 - Graph Theory
 - Linked List
+- String
 ---
 
 # 🎯 Goal
