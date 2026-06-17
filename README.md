@@ -67,6 +67,7 @@ leetcode-daily/
 │   └── 2095. Delete the Middle Node of a Linked List.cpp
 ├── String/
 │   └── 3612. Process String with Special Operations I.cpp
+│   └── 3614. Process String with Special Operations II.cpp
 └── README.md
 ```
 
@@ -99,6 +100,7 @@ leetcode-daily/
 | 21 | 2130 | Maximum Twin Sum of a Linked List | 🟡 Medium | Linked List |
 | 22 | 2096 | Delete the Middle Node of a Linked List | 🟡 Medium | Linked List |
 | 23 | 3612 | 3612. Process String with Special Operations I | 🟡 Medium | String |
+| 23 | 3614 | 3614. Process String with Special Operations II | 🔴 Hard | String |
 ---
 
 # ⚡ Topics Covered
