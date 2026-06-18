@@ -68,6 +68,8 @@ leetcode-daily/
 ├── String/
 │   └── 3612. Process String with Special Operations I.cpp
 │   └── 3614. Process String with Special Operations II.cpp
+├── Math/
+│   └── 1344. Angle Between Hands of a Clock.cpp
 └── README.md
 ```
 
@@ -101,6 +103,7 @@ leetcode-daily/
 | 22 | 2096 | Delete the Middle Node of a Linked List | 🟡 Medium | Linked List |
 | 23 | 3612 | 3612. Process String with Special Operations I | 🟡 Medium | String |
 | 23 | 3614 | 3614. Process String with Special Operations II | 🔴 Hard | String |
+| 24 | 1344 | Angle Between Hands of a Clock | 🟡 Medium | Math |
 ---
 
 # ⚡ Topics Covered
@@ -121,6 +124,7 @@ leetcode-daily/
 - Graph Theory
 - Linked List
 - String
+- Math
 ---
 
 # 🎯 Goal
