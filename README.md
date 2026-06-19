@@ -50,6 +50,7 @@ leetcode-daily/
 │   └── 2161. Partition Array According to Given Pivot.cpp
 │   └── 3689. Maximum Total Subarray Value I.cpp
 │   └── 3838. Weighted Word Mapping.cpp
+│   └── 1732. Find the Highest Altitude.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
 ├── Brute Force/
@@ -104,6 +105,7 @@ leetcode-daily/
 | 23 | 3612 | 3612. Process String with Special Operations I | 🟡 Medium | String |
 | 23 | 3614 | 3614. Process String with Special Operations II | 🔴 Hard | String |
 | 24 | 1344 | Angle Between Hands of a Clock | 🟡 Medium | Math |
+| 25 | 1732 |  Find the Highest Altitude | 🟢 Easy | Array |
 ---
 
 # ⚡ Topics Covered
