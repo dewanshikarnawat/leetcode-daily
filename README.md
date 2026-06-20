@@ -71,6 +71,8 @@ leetcode-daily/
 │   └── 3614. Process String with Special Operations II.cpp
 ├── Math/
 │   └── 1344. Angle Between Hands of a Clock.cpp
+├── Array+Greedy/
+│   └── 1840. Maximum Building Height.cpp
 └── README.md
 ```
 
@@ -106,13 +108,14 @@ leetcode-daily/
 | 23 | 3614 | 3614. Process String with Special Operations II | 🔴 Hard | String |
 | 24 | 1344 | Angle Between Hands of a Clock | 🟡 Medium | Math |
 | 25 | 1732 |  Find the Highest Altitude | 🟢 Easy | Array |
+| 25 | 1840 |  Maximum Building Height | 🔴 Hard | Array |
 ---
 
 # ⚡ Topics Covered
 
 - Arrays
 - Brute Force
-- Greedy Algoruthm
+- Greedy Algorithm
 - Dynamic Programming
 - String
 - Hashing
