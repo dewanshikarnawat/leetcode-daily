@@ -73,6 +73,8 @@ leetcode-daily/
 │   └── 1344. Angle Between Hands of a Clock.cpp
 ├── Array+Greedy/
 │   └── 1840. Maximum Building Height.cpp
+├── String+Greedy+Hashing/
+│   └── 1189. Maximum Number of Balloons.cpp
 └── README.md
 ```
 
@@ -105,10 +107,11 @@ leetcode-daily/
 | 21 | 2130 | Maximum Twin Sum of a Linked List | 🟡 Medium | Linked List |
 | 22 | 2096 | Delete the Middle Node of a Linked List | 🟡 Medium | Linked List |
 | 23 | 3612 | 3612. Process String with Special Operations I | 🟡 Medium | String |
-| 23 | 3614 | 3614. Process String with Special Operations II | 🔴 Hard | String |
-| 24 | 1344 | Angle Between Hands of a Clock | 🟡 Medium | Math |
-| 25 | 1732 |  Find the Highest Altitude | 🟢 Easy | Array |
-| 25 | 1840 |  Maximum Building Height | 🔴 Hard | Array |
+| 24 | 3614 | 3614. Process String with Special Operations II | 🔴 Hard | String |
+| 25 | 1344 | Angle Between Hands of a Clock | 🟡 Medium | Math |
+| 26 | 1732 | Find the Highest Altitude | 🟢 Easy | Array |
+| 27 | 1840 | Maximum Building Height | 🔴 Hard | Array |
+| 28 | 1189 | Maximum Number of Balloons | 🟢 Easy | String+Hashing+Greedy |
 ---
 
 # ⚡ Topics Covered
