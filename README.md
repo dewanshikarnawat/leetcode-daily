@@ -35,6 +35,8 @@ leetcode-daily/
 │   └── Digit DP
 │       └── Total Waviness of Numbers in Range II.cpp
 │   └── 1871_Jump_Game_VII.cpp
+│   └── 3699. Number of ZigZag Arrays I.cpp
+│   └── 3700. Number of ZigZag Arrays II.cpp
 ├── Heap/
 │   └── 3691. Maximum Total Subarray Value II.cpp
 ├── String + Hashing/    
@@ -53,6 +55,7 @@ leetcode-daily/
 │   └── 1732. Find the Highest Altitude.cpp
 ├── Greedy/
 │   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
+│   └── 1833. Maximum Ice Cream Bars.cpp
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
@@ -75,6 +78,8 @@ leetcode-daily/
 │   └── 1840. Maximum Building Height.cpp
 ├── String+Greedy+Hashing/
 │   └── 1189. Maximum Number of Balloons.cpp
+├── Prefix Sum/
+│   └── 3737. Count Subarrays With Majority Element I.cpp
 └── README.md
 ```
 
@@ -111,7 +116,11 @@ leetcode-daily/
 | 25 | 1344 | Angle Between Hands of a Clock | 🟡 Medium | Math |
 | 26 | 1732 | Find the Highest Altitude | 🟢 Easy | Array |
 | 27 | 1840 | Maximum Building Height | 🔴 Hard | Array |
-| 28 | 1189 | Maximum Number of Balloons | 🟢 Easy | String+Hashing+Greedy |
+| 28 | 1833 | Maximum Ice Cream Bars | 🟡 Medium | Greedy |
+| 29 | 1189 | Maximum Number of Balloons | 🟢 Easy | String+Hashing+Greedy |
+| 30 | 3699 | Number of ZigZag Arrays I | 🔴 Hard| DP |
+| 31 | 3700 | Number of ZigZag Arrays II | 🔴 Hard | DP |
+| 32 | 3737 | Count Subarrays With Majority Element I | 🟡 Medium | Prefix Sum |
 ---
 
 # ⚡ Topics Covered
@@ -133,6 +142,7 @@ leetcode-daily/
 - Linked List
 - String
 - Math
+- Prefix Sum
 ---
 
 # 🎯 Goal
