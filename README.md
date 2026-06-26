@@ -80,6 +80,7 @@ leetcode-daily/
 │   └── 1189. Maximum Number of Balloons.cpp
 ├── Prefix Sum/
 │   └── 3737. Count Subarrays With Majority Element I.cpp
+│   └── 3739. Count Subarrays With Majority Element II.cpp
 └── README.md
 ```
 
@@ -121,6 +122,7 @@ leetcode-daily/
 | 30 | 3699 | Number of ZigZag Arrays I | 🔴 Hard| DP |
 | 31 | 3700 | Number of ZigZag Arrays II | 🔴 Hard | DP |
 | 32 | 3737 | Count Subarrays With Majority Element I | 🟡 Medium | Prefix Sum |
+| 33 | 3739 | Count Subarrays With Majority Element II | 🔴 Hard | Prefix Sum |
 ---
 
 # ⚡ Topics Covered
