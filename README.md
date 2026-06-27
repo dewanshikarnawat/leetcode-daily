@@ -81,6 +81,8 @@ leetcode-daily/
 ├── Prefix Sum/
 │   └── 3737. Count Subarrays With Majority Element I.cpp
 │   └── 3739. Count Subarrays With Majority Element II.cpp
+├── Greedy + Hashing/
+│   └── 3020. Find the Maximum Number of Elements in Subset.cpp
 └── README.md
 ```
 
@@ -123,6 +125,7 @@ leetcode-daily/
 | 31 | 3700 | Number of ZigZag Arrays II | 🔴 Hard | DP |
 | 32 | 3737 | Count Subarrays With Majority Element I | 🟡 Medium | Prefix Sum |
 | 33 | 3739 | Count Subarrays With Majority Element II | 🔴 Hard | Prefix Sum |
+| 34 | 3020 | Find the Maximum Number of Elements in Subset | 🟡 Medium | Greedy + Hashing |
 ---
 
 # ⚡ Topics Covered
