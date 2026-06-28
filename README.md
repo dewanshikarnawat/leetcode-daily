@@ -54,8 +54,9 @@ leetcode-daily/
 │   └── 3838. Weighted Word Mapping.cpp
 │   └── 1732. Find the Highest Altitude.cpp
 ├── Greedy/
-│   └── 2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp
+│   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
+│   └── 1846. Maximum Element After Decreasing and Rearranging.cpp
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
@@ -126,6 +127,7 @@ leetcode-daily/
 | 32 | 3737 | Count Subarrays With Majority Element I | 🟡 Medium | Prefix Sum |
 | 33 | 3739 | Count Subarrays With Majority Element II | 🔴 Hard | Prefix Sum |
 | 34 | 3020 | Find the Maximum Number of Elements in Subset | 🟡 Medium | Greedy + Hashing |
+| 35 | 1846 | Maximum Element After Decreasing and Rearranging | 🟡 Medium | Greedy |
 ---
 
 # ⚡ Topics Covered
