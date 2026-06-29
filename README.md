@@ -73,6 +73,7 @@ leetcode-daily/
 ├── String/
 │   └── 3612. Process String with Special Operations I.cpp
 │   └── 3614. Process String with Special Operations II.cpp
+│   └── 1967. Number of Strings That Appear as Substrings in Word.cpp
 ├── Math/
 │   └── 1344. Angle Between Hands of a Clock.cpp
 ├── Array+Greedy/
@@ -128,6 +129,7 @@ leetcode-daily/
 | 33 | 3739 | Count Subarrays With Majority Element II | 🔴 Hard | Prefix Sum |
 | 34 | 3020 | Find the Maximum Number of Elements in Subset | 🟡 Medium | Greedy + Hashing |
 | 35 | 1846 | Maximum Element After Decreasing and Rearranging | 🟡 Medium | Greedy |
+| 36 | 1967 | Number of Strings That Appear as Substrings in Word | 🟢 Easy | String |
 ---
 
 # ⚡ Topics Covered
