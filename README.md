@@ -42,6 +42,7 @@ leetcode-daily/
 ├── String + Hashing/    
 │   └── 3120_Count_the_no_of_special_characters_I.cpp
 │   └── 3121_Count_the_no_of_special_characters_II.cpp
+│   └── 1358. Number of Substrings Containing All Three Characters.cpp
 ├── Trie + Strings/
 │   └── 3093_Longest_Common_Suffix_Queries.cpp
 ├── Arrays/
