@@ -86,6 +86,8 @@ leetcode-daily/
 │   └── 3739. Count Subarrays With Majority Element II.cpp
 ├── Greedy + Hashing/
 │   └── 3020. Find the Maximum Number of Elements in Subset.cpp
+├── Graph/
+│   └── 2812. Find the Safest Path in a Grid.cpp
 └── README.md
 ```
 
@@ -132,6 +134,7 @@ leetcode-daily/
 | 35 | 1846 | Maximum Element After Decreasing and Rearranging | 🟡 Medium | Greedy |
 | 36 | 1967 | Number of Strings That Appear as Substrings in Word | 🟢 Easy | String |
 | 37 | 1358 | Number of Substrings Containing All Three Characters |  🟡 Medium | String + Hashing |
+| 38 | 2812 | Find the Safest Path in a Grid |  🟡 Medium | Graph |
 ---
 
 # ⚡ Topics Covered
