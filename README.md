@@ -88,6 +88,7 @@ leetcode-daily/
 │   └── 3020. Find the Maximum Number of Elements in Subset.cpp
 ├── Graph/
 │   └── 2812. Find the Safest Path in a Grid.cpp
+│   └── 3286. Find a Safe Walk Through a Grid.cpp
 └── README.md
 ```
 
@@ -135,6 +136,7 @@ leetcode-daily/
 | 36 | 1967 | Number of Strings That Appear as Substrings in Word | 🟢 Easy | String |
 | 37 | 1358 | Number of Substrings Containing All Three Characters |  🟡 Medium | String + Hashing |
 | 38 | 2812 | Find the Safest Path in a Grid |  🟡 Medium | Graph |
+| 39 | 3286 | Find a Safe Walk Through a Grid |  🟡 Medium | Graph |
 ---
 
 # ⚡ Topics Covered
