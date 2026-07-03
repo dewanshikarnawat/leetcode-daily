@@ -89,6 +89,7 @@ leetcode-daily/
 ├── Graph/
 │   └── 2812. Find the Safest Path in a Grid.cpp
 │   └── 3286. Find a Safe Walk Through a Grid.cpp
+│   └── 3620. Network Recovery Pathways.cpp
 └── README.md
 ```
 
@@ -137,6 +138,7 @@ leetcode-daily/
 | 37 | 1358 | Number of Substrings Containing All Three Characters |  🟡 Medium | String + Hashing |
 | 38 | 2812 | Find the Safest Path in a Grid |  🟡 Medium | Graph |
 | 39 | 3286 | Find a Safe Walk Through a Grid |  🟡 Medium | Graph |
+| 40 | 3620 | Network Recovery Pathways | 🔴  Hard | Graph |
 ---
 
 # ⚡ Topics Covered
