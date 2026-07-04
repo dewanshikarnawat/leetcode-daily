@@ -90,6 +90,7 @@ leetcode-daily/
 │   └── 2812. Find the Safest Path in a Grid.cpp
 │   └── 3286. Find a Safe Walk Through a Grid.cpp
 │   └── 3620. Network Recovery Pathways.cpp
+│   └── 2492. Minimum Score of a Path Between Two Cities.cpp
 └── README.md
 ```
 
@@ -139,6 +140,7 @@ leetcode-daily/
 | 38 | 2812 | Find the Safest Path in a Grid |  🟡 Medium | Graph |
 | 39 | 3286 | Find a Safe Walk Through a Grid |  🟡 Medium | Graph |
 | 40 | 3620 | Network Recovery Pathways | 🔴  Hard | Graph |
+| 41 | 2492 | Minimum Score of a Path Between Two Cities | 🟡 Medium | Graph |
 ---
 
 # ⚡ Topics Covered
