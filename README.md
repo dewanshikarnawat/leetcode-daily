@@ -34,6 +34,8 @@ leetcode-daily/
 ├── DP/
 │   └── Digit DP
 │       └── Total Waviness of Numbers in Range II.cpp
+│   └── 2D DP
+│       └── 1301. Number of Paths with Max Score.cpp
 │   └── 1871_Jump_Game_VII.cpp
 │   └── 3699. Number of ZigZag Arrays I.cpp
 │   └── 3700. Number of ZigZag Arrays II.cpp
@@ -139,8 +141,9 @@ leetcode-daily/
 | 37 | 1358 | Number of Substrings Containing All Three Characters |  🟡 Medium | String + Hashing |
 | 38 | 2812 | Find the Safest Path in a Grid |  🟡 Medium | Graph |
 | 39 | 3286 | Find a Safe Walk Through a Grid |  🟡 Medium | Graph |
-| 40 | 3620 | Network Recovery Pathways | 🔴  Hard | Graph |
+| 40 | 3620 | Network Recovery Pathways | 🔴 Hard | Graph |
 | 41 | 2492 | Minimum Score of a Path Between Two Cities | 🟡 Medium | Graph |
+| 42 | 1301 | Number of Paths with Max Score | 🔴 Hard | DP |
 ---
 
 # ⚡ Topics Covered
