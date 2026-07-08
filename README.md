@@ -86,6 +86,8 @@ leetcode-daily/
 ├── Prefix Sum/
 │   └── 3737. Count Subarrays With Majority Element I.cpp
 │   └── 3739. Count Subarrays With Majority Element II.cpp
+│   └── 1288. Remove Covered Intervals.cpp
+│   └── 3756. Concatenate Non-Zero Digits and Multiply by Sum II.cpp
 ├── Greedy + Hashing/
 │   └── 3020. Find the Maximum Number of Elements in Subset.cpp
 ├── Graph/
@@ -146,7 +148,9 @@ leetcode-daily/
 | 40 | 3620 | Network Recovery Pathways | 🔴 Hard | Graph |
 | 41 | 2492 | Minimum Score of a Path Between Two Cities | 🟡 Medium | Graph |
 | 42 | 1301 | Number of Paths with Max Score | 🔴 Hard | DP |
-| 43 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | Simulation |
+| 43 | 1288 | Remove Covered Intervals | 🟡 Medium | Prefix Sum |
+| 44 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | Simulation |
+| 45 | 3756 | 3756. Concatenate Non-Zero Digits and Multiply by Sum II | 🟡 Medium | Prefx Sum |
 ---
 
 # ⚡ Topics Covered
