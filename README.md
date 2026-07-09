@@ -151,7 +151,8 @@ leetcode-daily/
 | 42 | 1301 | Number of Paths with Max Score | 🔴 Hard | DP |
 | 43 | 1288 | Remove Covered Intervals | 🟡 Medium | Prefix Sum |
 | 44 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | Simulation |
-| 45 | 3756 | 3756. Concatenate Non-Zero Digits and Multiply by Sum II | 🟡 Medium | Prefx Sum |
+| 45 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | 🟡 Medium | Prefix Sum |
+| 46 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | Graph |
 ---
 
 # ⚡ Topics Covered
