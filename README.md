@@ -95,6 +95,7 @@ leetcode-daily/
 │   └── 3286. Find a Safe Walk Through a Grid.cpp
 │   └── 3620. Network Recovery Pathways.cpp
 │   └── 2492. Minimum Score of a Path Between Two Cities.cpp
+│   └── 3532. Path Existence Queries in a Graph I.cpp
 ├── Simulation/
 │   └── 3754. Concatenate Non-Zero Digits and Multiply by Sum I.cpp
 └── README.md
