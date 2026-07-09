@@ -1,0 +1,27 @@
+//Problem: 3532. Path Existence Queries in a Graph I
+//Topic: Graphs
+//Pattern: Medium
+
+class Solution {
+public:
+    vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
+        vector<int> comp(n);   // component id of each node
+
+        int id = 0;
+        comp[0] = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] - nums[i - 1] > maxDiff)
+                id++;
+            comp[i] = id;
+        }
+
+        vector<bool> ans;
+
+        for (auto &q : queries) {
+            ans.push_back(comp[q[0]] == comp[q[1]]);
+        }
+
+        return ans;
+    }
+};
