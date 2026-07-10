@@ -96,6 +96,7 @@ leetcode-daily/
 │   └── 3620. Network Recovery Pathways.cpp
 │   └── 2492. Minimum Score of a Path Between Two Cities.cpp
 │   └── 3532. Path Existence Queries in a Graph I.cpp
+│   └── 3532. Path Existence Queries in a Graph II.cpp
 ├── Simulation/
 │   └── 3754. Concatenate Non-Zero Digits and Multiply by Sum I.cpp
 └── README.md
@@ -153,6 +154,7 @@ leetcode-daily/
 | 44 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | 🟢 Easy | Simulation |
 | 45 | 3756 | Concatenate Non-Zero Digits and Multiply by Sum II | 🟡 Medium | Prefix Sum |
 | 46 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | Graph |
+| 47 | 3534 | Path Existence Queries in a Graph II | 🔴 Hard | Graph |
 ---
 
 # ⚡ Topics Covered
