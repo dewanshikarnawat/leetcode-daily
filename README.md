@@ -56,6 +56,7 @@ leetcode-daily/
 │   └── 3689. Maximum Total Subarray Value I.cpp
 │   └── 3838. Weighted Word Mapping.cpp
 │   └── 1732. Find the Highest Altitude.cpp
+│   └── 1331. Rank Transform of an Array.cpp
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -157,6 +158,7 @@ leetcode-daily/
 | 46 | 3532 | Path Existence Queries in a Graph I | 🟡 Medium | Graph |
 | 47 | 3534 | Path Existence Queries in a Graph II | 🔴 Hard | Graph |
 | 48 | 2685 | Count the Number of Complete Components | 🟡 Medium | Graph |
+| 49 | 1331 | Rank Transform of an Array | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
