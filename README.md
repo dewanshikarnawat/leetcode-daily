@@ -101,6 +101,8 @@ leetcode-daily/
 │   └── 2685. Count the Number of Complete Components.cpp
 ├── Simulation/
 │   └── 3754. Concatenate Non-Zero Digits and Multiply by Sum I.cpp
+├── Sliding Window/
+│   └── 1291. Sequential Digits.cpp
 └── README.md
 ```
 
@@ -159,6 +161,7 @@ leetcode-daily/
 | 47 | 3534 | Path Existence Queries in a Graph II | 🔴 Hard | Graph |
 | 48 | 2685 | Count the Number of Complete Components | 🟡 Medium | Graph |
 | 49 | 1331 | Rank Transform of an Array | 🟢 Easy | Arrays |
+| 50 | 1291 | Sequential Digits | 🟡 Medium | Sliding Window |
 ---
 
 # ⚡ Topics Covered
