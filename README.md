@@ -36,6 +36,8 @@ leetcode-daily/
 │       └── Total Waviness of Numbers in Range II.cpp
 │   └── 2D DP
 │       └── 1301. Number of Paths with Max Score.cpp
+│   └── 3D DP
+│       └── 3336. Find the Number of Subsequences With Equal GCD
 │   └── 1871_Jump_Game_VII.cpp
 │   └── 3699. Number of ZigZag Arrays I.cpp
 │   └── 3700. Number of ZigZag Arrays II.cpp
@@ -162,6 +164,7 @@ leetcode-daily/
 | 48 | 2685 | Count the Number of Complete Components | 🟡 Medium | Graph |
 | 49 | 1331 | Rank Transform of an Array | 🟢 Easy | Arrays |
 | 50 | 1291 | Sequential Digits | 🟡 Medium | Sliding Window |
+| 51 | 3336 | Find the Number of Subsequences With Equal GCD | 🔴 Hard | DP |
 ---
 
 # ⚡ Topics Covered
