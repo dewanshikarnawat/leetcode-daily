@@ -105,6 +105,8 @@ leetcode-daily/
 │   └── 3754. Concatenate Non-Zero Digits and Multiply by Sum I.cpp
 ├── Sliding Window/
 │   └── 1291. Sequential Digits.cpp
+├── GCD/
+│   └── 3658. GCD of Odd and Even Sums
 └── README.md
 ```
 
@@ -165,6 +167,7 @@ leetcode-daily/
 | 49 | 1331 | Rank Transform of an Array | 🟢 Easy | Arrays |
 | 50 | 1291 | Sequential Digits | 🟡 Medium | Sliding Window |
 | 51 | 3336 | Find the Number of Subsequences With Equal GCD | 🔴 Hard | DP |
+| 52 | 3658 | GCD of Odd and Even Sums | 🟢 Easy | GCD |
 ---
 
 # ⚡ Topics Covered
@@ -188,6 +191,7 @@ leetcode-daily/
 - Math
 - Prefix Sum
 - Simulation
+- GCD
 ---
 
 # 🎯 Goal
