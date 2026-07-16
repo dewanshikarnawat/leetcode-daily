@@ -59,6 +59,7 @@ leetcode-daily/
 │   └── 3838. Weighted Word Mapping.cpp
 │   └── 1732. Find the Highest Altitude.cpp
 │   └── 1331. Rank Transform of an Array.cpp
+│   └── 3867. Sum of GCD of Formed Pairs.cpp
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -168,6 +169,7 @@ leetcode-daily/
 | 50 | 1291 | Sequential Digits | 🟡 Medium | Sliding Window |
 | 51 | 3336 | Find the Number of Subsequences With Equal GCD | 🔴 Hard | DP |
 | 52 | 3658 | GCD of Odd and Even Sums | 🟢 Easy | GCD |
+| 53 | 3867 | Sum of GCD of Formed Pairs | 🟡 Medium | Arrays |
 ---
 
 # ⚡ Topics Covered
