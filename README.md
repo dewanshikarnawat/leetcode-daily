@@ -108,6 +108,8 @@ leetcode-daily/
 │   └── 1291. Sequential Digits.cpp
 ├── GCD/
 │   └── 3658. GCD of Odd and Even Sums
+├── Number Theory/
+│   └── 3312. Sorted GCD Pair Queries
 └── README.md
 ```
 
@@ -170,6 +172,7 @@ leetcode-daily/
 | 51 | 3336 | Find the Number of Subsequences With Equal GCD | 🔴 Hard | DP |
 | 52 | 3658 | GCD of Odd and Even Sums | 🟢 Easy | GCD |
 | 53 | 3867 | Sum of GCD of Formed Pairs | 🟡 Medium | Arrays |
+| 54 | 3312 | Sorted GCD Pair Queries | 🔴 Hard | Number Theory |
 ---
 
 # ⚡ Topics Covered
@@ -194,6 +197,7 @@ leetcode-daily/
 - Prefix Sum
 - Simulation
 - GCD
+- Number Theory
 ---
 
 # 🎯 Goal
