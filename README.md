@@ -83,6 +83,7 @@ leetcode-daily/
 │   └── 1967. Number of Strings That Appear as Substrings in Word.cpp
 ├── Math/
 │   └── 1344. Angle Between Hands of a Clock.cpp
+│   └── 1979. Find Greatest Common Divisor of Array.cpp
 ├── Array+Greedy/
 │   └── 1840. Maximum Building Height.cpp
 ├── String+Greedy+Hashing/
@@ -173,6 +174,7 @@ leetcode-daily/
 | 52 | 3658 | GCD of Odd and Even Sums | 🟢 Easy | GCD |
 | 53 | 3867 | Sum of GCD of Formed Pairs | 🟡 Medium | Arrays |
 | 54 | 3312 | Sorted GCD Pair Queries | 🔴 Hard | Number Theory |
+| 55 | 1979 | Find Greatest Common Divisor of Array | 🟢 Easy | Math |
 ---
 
 # ⚡ Topics Covered
