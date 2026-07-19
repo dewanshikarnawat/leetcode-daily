@@ -111,6 +111,8 @@ leetcode-daily/
 │   └── 3658. GCD of Odd and Even Sums
 ├── Number Theory/
 │   └── 3312. Sorted GCD Pair Queries
+├── Stack/
+│   └── 1081. Smallest Subsequence of Distinct Characters
 └── README.md
 ```
 
@@ -175,6 +177,7 @@ leetcode-daily/
 | 53 | 3867 | Sum of GCD of Formed Pairs | 🟡 Medium | Arrays |
 | 54 | 3312 | Sorted GCD Pair Queries | 🔴 Hard | Number Theory |
 | 55 | 1979 | Find Greatest Common Divisor of Array | 🟢 Easy | Math |
+| 56 | 1081 | Smallest Subsequence of Distinct Characters | 🟡 Medium | Stack |
 ---
 
 # ⚡ Topics Covered
