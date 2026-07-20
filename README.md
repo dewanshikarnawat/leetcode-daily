@@ -60,6 +60,7 @@ leetcode-daily/
 │   └── 1732. Find the Highest Altitude.cpp
 │   └── 1331. Rank Transform of an Array.cpp
 │   └── 3867. Sum of GCD of Formed Pairs.cpp
+│   └── 1260. Shift 2D Grid
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -178,6 +179,7 @@ leetcode-daily/
 | 54 | 3312 | Sorted GCD Pair Queries | 🔴 Hard | Number Theory |
 | 55 | 1979 | Find Greatest Common Divisor of Array | 🟢 Easy | Math |
 | 56 | 1081 | Smallest Subsequence of Distinct Characters | 🟡 Medium | Stack |
+| 57 | 1260 | Shift 2D Grid | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
