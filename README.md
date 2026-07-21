@@ -65,6 +65,7 @@ leetcode-daily/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
 │   └── 1846. Maximum Element After Decreasing and Rearranging.cpp
+│   └── 3499. Maximize Active Section with Trade I
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
@@ -180,6 +181,7 @@ leetcode-daily/
 | 55 | 1979 | Find Greatest Common Divisor of Array | 🟢 Easy | Math |
 | 56 | 1081 | Smallest Subsequence of Distinct Characters | 🟡 Medium | Stack |
 | 57 | 1260 | Shift 2D Grid | 🟢 Easy | Arrays |
+| 58 | 3499 | Maximize Active Section with Trade I | 🟡 Medium | Greedy |
 ---
 
 # ⚡ Topics Covered
