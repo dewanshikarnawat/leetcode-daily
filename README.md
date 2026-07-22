@@ -61,6 +61,7 @@ leetcode-daily/
 │   └── 1331. Rank Transform of an Array.cpp
 │   └── 3867. Sum of GCD of Formed Pairs.cpp
 │   └── 1260. Shift 2D Grid
+│   └── 3501. Maximize Active Section with Trade II
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -182,6 +183,7 @@ leetcode-daily/
 | 56 | 1081 | Smallest Subsequence of Distinct Characters | 🟡 Medium | Stack |
 | 57 | 1260 | Shift 2D Grid | 🟢 Easy | Arrays |
 | 58 | 3499 | Maximize Active Section with Trade I | 🟡 Medium | Greedy |
+| 59 | 3501 | Maximize Active Section with Trade II | 🔴 Hard | Arrays |
 ---
 
 # ⚡ Topics Covered
