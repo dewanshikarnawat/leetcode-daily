@@ -186,6 +186,7 @@ leetcode-daily/
 | 57 | 1260 | Shift 2D Grid | 🟢 Easy | Arrays |
 | 58 | 3499 | Maximize Active Section with Trade I | 🟡 Medium | Greedy |
 | 59 | 3501 | Maximize Active Section with Trade II | 🔴 Hard | Arrays |
+| 60 | 3513 | Number of Unique XOR Triplets I | 🟡 Medium | Bit Manipulation |
 ---
 
 # ⚡ Topics Covered
@@ -211,6 +212,7 @@ leetcode-daily/
 - Simulation
 - GCD
 - Number Theory
+- Bit Manipulation
 ---
 
 # 🎯 Goal
