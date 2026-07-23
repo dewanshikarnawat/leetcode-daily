@@ -116,6 +116,8 @@ leetcode-daily/
 │   └── 3312. Sorted GCD Pair Queries
 ├── Stack/
 │   └── 1081. Smallest Subsequence of Distinct Characters
+├── Bit Manipulation/
+│   └── 3513. Number of Unique XOR Triplets I
 └── README.md
 ```
 
