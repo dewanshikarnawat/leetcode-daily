@@ -118,6 +118,7 @@ leetcode-daily/
 │   └── 1081. Smallest Subsequence of Distinct Characters
 ├── Bit Manipulation/
 │   └── 3513. Number of Unique XOR Triplets I
+│   └── 3513. Number of Unique XOR Triplets II
 └── README.md
 ```
 
@@ -187,6 +188,7 @@ leetcode-daily/
 | 58 | 3499 | Maximize Active Section with Trade I | 🟡 Medium | Greedy |
 | 59 | 3501 | Maximize Active Section with Trade II | 🔴 Hard | Arrays |
 | 60 | 3513 | Number of Unique XOR Triplets I | 🟡 Medium | Bit Manipulation |
+| 61 | 3514 | Number of Unique XOR Triplets II | 🟡 Medium | Bit Manipulation |
 ---
 
 # ⚡ Topics Covered
