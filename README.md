@@ -87,6 +87,7 @@ leetcode-daily/
 ├── Math/
 │   └── 1344. Angle Between Hands of a Clock.cpp
 │   └── 1979. Find Greatest Common Divisor of Array.cpp
+│   └── 3536. Maximum Product of Two Digits
 ├── Array+Greedy/
 │   └── 1840. Maximum Building Height.cpp
 ├── String+Greedy+Hashing/
@@ -189,6 +190,7 @@ leetcode-daily/
 | 59 | 3501 | Maximize Active Section with Trade II | 🔴 Hard | Arrays |
 | 60 | 3513 | Number of Unique XOR Triplets I | 🟡 Medium | Bit Manipulation |
 | 61 | 3514 | Number of Unique XOR Triplets II | 🟡 Medium | Bit Manipulation |
+| 62 | 3536 | Maximum Product of Two Digits | 🟢 Easy | Math |
 ---
 
 # ⚡ Topics Covered
