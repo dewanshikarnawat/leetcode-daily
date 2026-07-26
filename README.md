@@ -62,6 +62,7 @@ leetcode-daily/
 │   └── 3867. Sum of GCD of Formed Pairs.cpp
 │   └── 1260. Shift 2D Grid
 │   └── 3501. Maximize Active Section with Trade II
+│   └── 628. Maximum Product of Three Numbers
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -191,6 +192,7 @@ leetcode-daily/
 | 60 | 3513 | Number of Unique XOR Triplets I | 🟡 Medium | Bit Manipulation |
 | 61 | 3514 | Number of Unique XOR Triplets II | 🟡 Medium | Bit Manipulation |
 | 62 | 3536 | Maximum Product of Two Digits | 🟢 Easy | Math |
+| 63 | 628 | Maximum Product of Three Numbers | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
