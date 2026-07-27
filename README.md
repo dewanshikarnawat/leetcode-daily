@@ -91,6 +91,7 @@ leetcode-daily/
 │   └── 3536. Maximum Product of Two Digits
 ├── Array+Greedy/
 │   └── 1840. Maximum Building Height.cpp
+│   └── 1464. Maximum Product of Two Elements in an Array
 ├── String+Greedy+Hashing/
 │   └── 1189. Maximum Number of Balloons.cpp
 ├── Prefix Sum/
@@ -193,6 +194,7 @@ leetcode-daily/
 | 61 | 3514 | Number of Unique XOR Triplets II | 🟡 Medium | Bit Manipulation |
 | 62 | 3536 | Maximum Product of Two Digits | 🟢 Easy | Math |
 | 63 | 628 | Maximum Product of Three Numbers | 🟢 Easy | Arrays |
+| 64 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | Array + Greedy |
 ---
 
 # ⚡ Topics Covered
