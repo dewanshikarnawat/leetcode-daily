@@ -122,6 +122,8 @@ leetcode-daily/
 ├── Bit Manipulation/
 │   └── 3513. Number of Unique XOR Triplets I
 │   └── 3513. Number of Unique XOR Triplets II
+├── Greedy + Counting + Strings/
+│   └── 3517. Smallest Palindromic Rearrangement I
 └── README.md
 ```
 
@@ -195,6 +197,7 @@ leetcode-daily/
 | 62 | 3536 | Maximum Product of Two Digits | 🟢 Easy | Math |
 | 63 | 628 | Maximum Product of Three Numbers | 🟢 Easy | Arrays |
 | 64 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | Array + Greedy |
+| 65 | 3517 | Smallest Palindromic Rearrangement I | 🟡 Medium | Greedy + Counting + Strings |
 ---
 
 # ⚡ Topics Covered
