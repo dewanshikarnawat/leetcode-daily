@@ -68,6 +68,7 @@ leetcode-daily/
 │   └── 1833. Maximum Ice Cream Bars.cpp
 │   └── 1846. Maximum Element After Decreasing and Rearranging.cpp
 │   └── 3499. Maximize Active Section with Trade I
+│   └── 3014. Minimum Number of Pushes to Type Word I
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
@@ -201,6 +202,7 @@ leetcode-daily/
 | 64 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | Array + Greedy |
 | 65 | 3517 | Smallest Palindromic Rearrangement I | 🟡 Medium | Greedy + Counting + Strings |
 | 66 | 3517 | Smallest Palindromic Rearrangement II | 🔴 Hard | Combinatorics |
+| 67 | 3014 | 3014. Minimum Number of Pushes to Type Word I | 🟢 Easy | Greedy |
 ---
 
 # ⚡ Topics Covered
