@@ -41,6 +41,7 @@ leetcode-daily/
 │   └── 1871_Jump_Game_VII.cpp
 │   └── 3699. Number of ZigZag Arrays I.cpp
 │   └── 3700. Number of ZigZag Arrays II.cpp
+│   └── 486. Predict the Winner
 ├── Heap/
 │   └── 3691. Maximum Total Subarray Value II.cpp
 ├── String + Hashing/    
@@ -205,6 +206,7 @@ leetcode-daily/
 | 66 | 3517 | Smallest Palindromic Rearrangement II | 🔴 Hard | Combinatorics |
 | 67 | 3014 | 3014. Minimum Number of Pushes to Type Word I | 🟢 Easy | Greedy |
 | 68 | 3016 | 3014. Minimum Number of Pushes to Type Word II | 🟡 Medium | Greedy |
+| 69 | 486 | Predict the Winner | 🟡 Medium | DP |
 ---
 
 # ⚡ Topics Covered
