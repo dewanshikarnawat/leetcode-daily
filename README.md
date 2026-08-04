@@ -130,6 +130,8 @@ leetcode-daily/
 │   └── 3517. Smallest Palindromic Rearrangement I
 ├── Combinatorics/
 │   └── 3518. Smallest Palindromic Rearrangement II
+├── DP + Game Theory/
+│   └── 1406. Stone Game III
 └── README.md
 ```
 
@@ -209,6 +211,7 @@ leetcode-daily/
 | 68 | 3016 | 3014. Minimum Number of Pushes to Type Word II | 🟡 Medium | Greedy |
 | 69 | 486 | Predict the Winner | 🟡 Medium | DP |
 | 70 | 877 | Stone Game | 🟡 Medium | DP |
+| 71 | 1406 | Stone Game III | 🔴 Hard | DP + Game Theory |
 ---
 
 # ⚡ Topics Covered
@@ -235,6 +238,7 @@ leetcode-daily/
 - GCD
 - Number Theory
 - Bit Manipulation
+- Game Theory
 ---
 
 # 🎯 Goal
