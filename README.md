@@ -65,6 +65,7 @@ leetcode-daily/
 │   └── 1260. Shift 2D Grid
 │   └── 3501. Maximize Active Section with Trade II
 │   └── 628. Maximum Product of Three Numbers
+│   └── 3731. Find Missing Elements
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -212,6 +213,7 @@ leetcode-daily/
 | 69 | 486 | Predict the Winner | 🟡 Medium | DP |
 | 70 | 877 | Stone Game | 🟡 Medium | DP |
 | 71 | 1406 | Stone Game III | 🔴 Hard | DP + Game Theory |
+| 72 | 3731 | Find Missing Elements | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
