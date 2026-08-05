@@ -114,6 +114,7 @@ leetcode-daily/
 │   └── 3532. Path Existence Queries in a Graph I.cpp
 │   └── 3534. Path Existence Queries in a Graph II.cpp
 │   └── 2685. Count the Number of Complete Components.cpp
+│   └── 3310. Remove Methods From Project
 ├── Simulation/
 │   └── 3754. Concatenate Non-Zero Digits and Multiply by Sum I.cpp
 ├── Sliding Window/
@@ -214,6 +215,7 @@ leetcode-daily/
 | 70 | 877 | Stone Game | 🟡 Medium | DP |
 | 71 | 1406 | Stone Game III | 🔴 Hard | DP + Game Theory |
 | 72 | 3731 | Find Missing Elements | 🟢 Easy | Arrays |
+| 73 | 3310 | Remove Methods From Project | 🟡 Medium | Graphs |
 ---
 
 # ⚡ Topics Covered
