@@ -34,6 +34,7 @@ leetcode-daily/
 ├── DP/
 │   └── Digit DP
 │       └── Total Waviness of Numbers in Range II.cpp
+│       └── 3348. Smallest Divisible Digit Product II
 │   └── 2D DP
 │       └── 1301. Number of Paths with Max Score.cpp
 │   └── 3D DP
