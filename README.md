@@ -76,6 +76,7 @@ leetcode-daily/
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
+│   └── 3345. Smallest Divisible Digit Product I
 ├── Graph Theory(Trees)/
 │   └── 3558. Number of Ways to Assign Edge Weights I.cpp
 │   └── 3559. Number of Ways to Assign Edge Weights II.cpp
@@ -216,6 +217,7 @@ leetcode-daily/
 | 71 | 1406 | Stone Game III | 🔴 Hard | DP + Game Theory |
 | 72 | 3731 | Find Missing Elements | 🟢 Easy | Arrays |
 | 73 | 3310 | Remove Methods From Project | 🟡 Medium | Graphs |
+| 74 | 3345 | Smallest Divisible Digit Product I | 🟢 Easy | Brute force |
 ---
 
 # ⚡ Topics Covered
