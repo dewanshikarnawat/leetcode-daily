@@ -44,6 +44,8 @@ leetcode-daily/
 │   └── 3700. Number of ZigZag Arrays II.cpp
 │   └── 486. Predict the Winner
 │   └── 877. Stone Game
+│   └── 1140. Stone Game II
+│   └── 1510. Stone Game IV
 ├── Heap/
 │   └── 3691. Maximum Total Subarray Value II.cpp
 ├── String + Hashing/    
@@ -221,6 +223,8 @@ leetcode-daily/
 | 73 | 3310 | Remove Methods From Project | 🟡 Medium | Graphs |
 | 74 | 3345 | Smallest Divisible Digit Product I | 🟢 Easy | Brute force |
 | 75 | 3302 | Find the Lexicographically Smallest Valid Sequence | 🟡 Medium | Greedy |
+| 77 | 1140 | Stone Game II | 🟡 Medium | DP |
+| 78 | 1510 | 1510. Stone Game IV | 🔴 Hard | DP |
 ---
 
 # ⚡ Topics Covered
