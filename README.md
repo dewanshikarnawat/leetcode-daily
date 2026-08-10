@@ -81,6 +81,7 @@ leetcode-daily/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
 │   └── 3345. Smallest Divisible Digit Product I
+│   └── 3345. Smallest Divisible Digit Product II
 ├── Graph Theory(Trees)/
 │   └── 3558. Number of Ways to Assign Edge Weights I.cpp
 │   └── 3559. Number of Ways to Assign Edge Weights II.cpp
@@ -222,9 +223,10 @@ leetcode-daily/
 | 72 | 3731 | Find Missing Elements | 🟢 Easy | Arrays |
 | 73 | 3310 | Remove Methods From Project | 🟡 Medium | Graphs |
 | 74 | 3345 | Smallest Divisible Digit Product I | 🟢 Easy | Brute force |
-| 75 | 3302 | Find the Lexicographically Smallest Valid Sequence | 🟡 Medium | Greedy |
+| 75 | 3348 | Smallest Divisible Digit Product II | 🔴 Hard | Brute force |
+| 76 | 3302 | Find the Lexicographically Smallest Valid Sequence | 🟡 Medium | Greedy |
 | 77 | 1140 | Stone Game II | 🟡 Medium | DP |
-| 78 | 1510 | 1510. Stone Game IV | 🔴 Hard | DP |
+| 78 | 1510 | Stone Game IV | 🔴 Hard | DP |
 ---
 
 # ⚡ Topics Covered
