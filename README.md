@@ -69,6 +69,7 @@ leetcode-daily/
 │   └── 3501. Maximize Active Section with Trade II
 │   └── 628. Maximum Product of Three Numbers
 │   └── 3731. Find Missing Elements
+│   └── 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -227,6 +228,7 @@ leetcode-daily/
 | 76 | 3302 | Find the Lexicographically Smallest Valid Sequence | 🟡 Medium | Greedy |
 | 77 | 1140 | Stone Game II | 🟡 Medium | DP |
 | 78 | 1510 | Stone Game IV | 🔴 Hard | DP |
+| 79 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | 🟢 Easy | Arrays |
 ---
 
 # ⚡ Topics Covered
