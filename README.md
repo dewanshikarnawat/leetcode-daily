@@ -126,6 +126,7 @@ leetcode-daily/
 │   └── 3754. Concatenate Non-Zero Digits and Multiply by Sum I.cpp
 ├── Sliding Window/
 │   └── 1291. Sequential Digits.cpp
+│   └── 2958. Length of Longest Subarray With at Most K Frequency
 ├── GCD/
 │   └── 3658. GCD of Odd and Even Sums
 ├── Number Theory/
@@ -229,6 +230,7 @@ leetcode-daily/
 | 77 | 1140 | Stone Game II | 🟡 Medium | DP |
 | 78 | 1510 | Stone Game IV | 🔴 Hard | DP |
 | 79 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | 🟢 Easy | Arrays |
+| 80 | 2958 | Length of Longest Subarray With at Most K Frequency | 🟡 Medium | Sliding Window |
 ---
 
 # ⚡ Topics Covered
