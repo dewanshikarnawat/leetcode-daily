@@ -90,6 +90,7 @@ leetcode-daily/
 │   └── 2196. Create Binary Tree From Descriptions.cpp
 ├── Segment Tree/
 │   └── 3161_Block_Placement_Queries.cpp
+│   └── 2213. Longest Substring of One Repeating Character
 ├── Linked List/
 │   └── 2130. Maximum Twin Sum of a Linked List.cpp
 │   └── 2095. Delete the Middle Node of a Linked List.cpp
@@ -231,6 +232,7 @@ leetcode-daily/
 | 78 | 1510 | Stone Game IV | 🔴 Hard | DP |
 | 79 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | 🟢 Easy | Arrays |
 | 80 | 2958 | Length of Longest Subarray With at Most K Frequency | 🟡 Medium | Sliding Window |
+| 81 | 2213 | Longest Substring of One Repeating Character | 🔴 Hard | Segment Tree |
 ---
 
 # ⚡ Topics Covered
