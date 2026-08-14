@@ -128,6 +128,7 @@ leetcode-daily/
 ├── Sliding Window/
 │   └── 1291. Sequential Digits.cpp
 │   └── 2958. Length of Longest Subarray With at Most K Frequency
+│   └── 3090. Maximum Length Substring With Two Occurrences
 ├── GCD/
 │   └── 3658. GCD of Odd and Even Sums
 ├── Number Theory/
@@ -233,6 +234,7 @@ leetcode-daily/
 | 79 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | 🟢 Easy | Arrays |
 | 80 | 2958 | Length of Longest Subarray With at Most K Frequency | 🟡 Medium | Sliding Window |
 | 81 | 2213 | Longest Substring of One Repeating Character | 🔴 Hard | Segment Tree |
+| 82 | 3090 | Maximum Length Substring With Two Occurrences | 🟢 Easy | Sliding window |
 ---
 
 # ⚡ Topics Covered
