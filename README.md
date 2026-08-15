@@ -144,6 +144,8 @@ leetcode-daily/
 │   └── 3518. Smallest Palindromic Rearrangement II
 ├── DP + Game Theory/
 │   └── 1406. Stone Game III
+├── Bit manipulation/
+│   └── 3702. Longest Subsequence With Non-Zero Bitwise XOR
 └── README.md
 ```
 
@@ -235,6 +237,7 @@ leetcode-daily/
 | 80 | 2958 | Length of Longest Subarray With at Most K Frequency | 🟡 Medium | Sliding Window |
 | 81 | 2213 | Longest Substring of One Repeating Character | 🔴 Hard | Segment Tree |
 | 82 | 3090 | Maximum Length Substring With Two Occurrences | 🟢 Easy | Sliding window |
+| 83 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | 🟡 Medium | Bit manipulation |
 ---
 
 # ⚡ Topics Covered
