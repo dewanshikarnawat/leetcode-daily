@@ -78,6 +78,7 @@ leetcode-daily/
 │   └── 3014. Minimum Number of Pushes to Type Word I
 │   └── 3016. Minimum Number of Pushes to Type Word II
 │   └── 3302. Find the Lexicographically Smallest Valid Sequence
+│   └── 2029. Stone Game IX
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
@@ -238,6 +239,7 @@ leetcode-daily/
 | 81 | 2213 | Longest Substring of One Repeating Character | 🔴 Hard | Segment Tree |
 | 82 | 3090 | Maximum Length Substring With Two Occurrences | 🟢 Easy | Sliding window |
 | 83 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | 🟡 Medium | Bit manipulation |
+| 84 | 2029 | Stone Game IX | 🟡 Medium | Greedy |
 ---
 
 # ⚡ Topics Covered
