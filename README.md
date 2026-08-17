@@ -46,6 +46,7 @@ leetcode-daily/
 │   └── 877. Stone Game
 │   └── 1140. Stone Game II
 │   └── 1510. Stone Game IV
+│   └── 1563. Stone Game V
 ├── Heap/
 │   └── 3691. Maximum Total Subarray Value II.cpp
 ├── String + Hashing/    
@@ -240,6 +241,7 @@ leetcode-daily/
 | 82 | 3090 | Maximum Length Substring With Two Occurrences | 🟢 Easy | Sliding window |
 | 83 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | 🟡 Medium | Bit manipulation |
 | 84 | 2029 | Stone Game IX | 🟡 Medium | Greedy |
+| 85 | 1563 | Stone Game V | 🔴 Hard | DP |
 ---
 
 # ⚡ Topics Covered
