@@ -148,6 +148,8 @@ leetcode-daily/
 │   └── 1406. Stone Game III
 ├── Bit manipulation/
 │   └── 3702. Longest Subsequence With Non-Zero Bitwise XOR
+├── Hashing/
+│   └── 3471. Find the Largest Almost Missing Integer
 └── README.md
 ```
 
@@ -242,6 +244,7 @@ leetcode-daily/
 | 83 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | 🟡 Medium | Bit manipulation |
 | 84 | 2029 | Stone Game IX | 🟡 Medium | Greedy |
 | 85 | 1563 | Stone Game V | 🔴 Hard | DP |
+| 85 | 3471 | Find the Largest Almost Missing Integer | 🟢 Easy | Hashing |
 ---
 
 # ⚡ Topics Covered
