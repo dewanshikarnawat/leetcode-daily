@@ -150,6 +150,8 @@ leetcode-daily/
 │   └── 3702. Longest Subsequence With Non-Zero Bitwise XOR
 ├── Hashing/
 │   └── 3471. Find the Largest Almost Missing Integer
+├── Hash map + Bitmasking/
+│   └── 1386. Cinema Seat Allocation
 └── README.md
 ```
 
@@ -244,7 +246,8 @@ leetcode-daily/
 | 83 | 3702 | Longest Subsequence With Non-Zero Bitwise XOR | 🟡 Medium | Bit manipulation |
 | 84 | 2029 | Stone Game IX | 🟡 Medium | Greedy |
 | 85 | 1563 | Stone Game V | 🔴 Hard | DP |
-| 85 | 3471 | Find the Largest Almost Missing Integer | 🟢 Easy | Hashing |
+| 86 | 3471 | Find the Largest Almost Missing Integer | 🟢 Easy | Hashing |
+| 87 | 1386 | Cinema Seat Allocation | 🟡 Medium | Hash map + Bitmasking |
 ---
 
 # ⚡ Topics Covered
@@ -272,6 +275,8 @@ leetcode-daily/
 - Number Theory
 - Bit Manipulation
 - Game Theory
+- Hashmap
+- Bitmasking
 ---
 
 # 🎯 Goal
