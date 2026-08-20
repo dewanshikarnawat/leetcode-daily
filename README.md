@@ -71,6 +71,7 @@ leetcode-daily/
 │   └── 628. Maximum Product of Three Numbers
 │   └── 3731. Find Missing Elements
 │   └── 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
+│   └── 3069. Distribute Elements Into Two Arrays I
 ├── Greedy/
 │   └── 2144. Minimum Cost of Buying Candies With Discount.cpp
 │   └── 1833. Maximum Ice Cream Bars.cpp
@@ -248,6 +249,7 @@ leetcode-daily/
 | 85 | 1563 | Stone Game V | 🔴 Hard | DP |
 | 86 | 3471 | Find the Largest Almost Missing Integer | 🟢 Easy | Hashing |
 | 87 | 1386 | Cinema Seat Allocation | 🟡 Medium | Hash map + Bitmasking |
+| 88 | 3069 | Distribute Elements Into Two Arrays I | 🟡 Medium | Arrays |
 ---
 
 # ⚡ Topics Covered
