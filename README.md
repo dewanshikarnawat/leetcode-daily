@@ -105,6 +105,7 @@ leetcode-daily/
 │   └── 1344. Angle Between Hands of a Clock.cpp
 │   └── 1979. Find Greatest Common Divisor of Array.cpp
 │   └── 3536. Maximum Product of Two Digits
+│   └── 3622. Check Divisibility by Digit Sum and Product
 ├── Array+Greedy/
 │   └── 1840. Maximum Building Height.cpp
 │   └── 1464. Maximum Product of Two Elements in an Array
@@ -250,6 +251,7 @@ leetcode-daily/
 | 86 | 3471 | Find the Largest Almost Missing Integer | 🟢 Easy | Hashing |
 | 87 | 1386 | Cinema Seat Allocation | 🟡 Medium | Hash map + Bitmasking |
 | 88 | 3069 | Distribute Elements Into Two Arrays I | 🟡 Medium | Arrays |
+| 90 | 3622 | Check Divisibility by Digit Sum and Product | 🟢 Easy | Math |
 ---
 
 # ⚡ Topics Covered
