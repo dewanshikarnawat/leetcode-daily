@@ -81,6 +81,7 @@ leetcode-daily/
 │   └── 3016. Minimum Number of Pushes to Type Word II
 │   └── 3302. Find the Lexicographically Smallest Valid Sequence
 │   └── 2029. Stone Game IX
+│   └── 1927. Sum Game
 ├── Brute Force/
 │   └── 3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I.cpp
 │   └── 3751_Total_Waviness_of_Numbers_in_Range_I.cpp
@@ -252,6 +253,7 @@ leetcode-daily/
 | 87 | 1386 | Cinema Seat Allocation | 🟡 Medium | Hash map + Bitmasking |
 | 88 | 3069 | Distribute Elements Into Two Arrays I | 🟡 Medium | Arrays |
 | 90 | 3622 | Check Divisibility by Digit Sum and Product | 🟢 Easy | Math |
+| 91 | 1927 | Sum Game | 🟡 Medium | Greedy |
 ---
 
 # ⚡ Topics Covered
