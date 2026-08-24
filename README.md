@@ -47,6 +47,7 @@ leetcode-daily/
 │   └── 1140. Stone Game II
 │   └── 1510. Stone Game IV
 │   └── 1563. Stone Game V
+│   └── 1563. Stone Game VIII
 ├── Heap/
 │   └── 3691. Maximum Total Subarray Value II.cpp
 ├── String + Hashing/    
@@ -252,8 +253,10 @@ leetcode-daily/
 | 86 | 3471 | Find the Largest Almost Missing Integer | 🟢 Easy | Hashing |
 | 87 | 1386 | Cinema Seat Allocation | 🟡 Medium | Hash map + Bitmasking |
 | 88 | 3069 | Distribute Elements Into Two Arrays I | 🟡 Medium | Arrays |
+| 89 |  |  | 🟡  |  |
 | 90 | 3622 | Check Divisibility by Digit Sum and Product | 🟢 Easy | Math |
 | 91 | 1927 | Sum Game | 🟡 Medium | Greedy |
+| 92 | 1872 | Stone Game VIII | 🔴 Hard | DP |
 ---
 
 # ⚡ Topics Covered
